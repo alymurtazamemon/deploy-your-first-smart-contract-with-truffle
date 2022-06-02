@@ -1,0 +1,8 @@
+# NODE MODULES
+node_modules/
+
+# COMPILED CONTRACTS FOLDER
+build/
+
+# ENVIRONMENT VARIABLES FILE
+.env
